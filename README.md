@@ -23,6 +23,6 @@ def circulate():
 print("After circulating the values are:",list1)
 ```
 ## Output:
-![git log](./screenshot.png)
+![git log](./Screenshot.png)
 ## Result:
 Thus circulate the n variables using function concept is successfully executed
